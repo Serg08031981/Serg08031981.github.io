@@ -319,7 +319,7 @@ footer {
 
 /* __________________________________________________________________________________________________________________________________________ */
 
-@media screen and (max-width: 719px) and (min-width: 320px) {
+@media screen and (max-width: 650px) and (min-width: 320px) {
 
     .order {
         display: none;
@@ -456,7 +456,7 @@ footer {
     }
 }
 
-@media screen and (max-width: 1080px) and (min-width: 720px) {
+@media screen and (max-width: 1080px) and (min-width: 651px) {
 
     .description {
         width: 65%;
